@@ -11,3 +11,7 @@ The presentation was based on some lessons I have learned from experience, but a
 
 * https://www.youtube.com/watch?v=SnCi0s0e4Io
 * https://www.youtube.com/watch?v=21ZWDrTukEs
+
+# Acknowledgement
+
+Background picture by [Cris Ovalle](https://unsplash.com/@crisovalle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](www.unsplash.com).
