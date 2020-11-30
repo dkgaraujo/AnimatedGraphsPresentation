@@ -14,4 +14,4 @@ The presentation was based on some lessons I have learned from experience, but a
 
 # Acknowledgement
 
-Soial media preview picture by [Cris Ovalle](https://unsplash.com/@crisovalle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](www.unsplash.com).
+Social media preview picture by [Cris Ovalle](https://unsplash.com/@crisovalle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](www.unsplash.com).
